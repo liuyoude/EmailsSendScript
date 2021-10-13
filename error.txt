@@ -1,0 +1,15 @@
+liuzhenzhen@	(<class 'smtplib.SMTPRecipientsRefused'>, SMTPRecipientsRefused({'liuzhenzhen@': (501, b'Syntax error')}), <traceback object at 0x0000023E80C4EFC8>)
+
+
+huizhao1978@163.com	(<class 'smtplib.SMTPDataError'>, SMTPDataError(452, b'Too many recipients received this hour. p=ca1-452 221.212.176.99'), <traceback object at 0x0000023E80C4EFC8>)
+
+
+guangguo.ying@m.scnu.edu.cn	(<class 'smtplib.SMTPDataError'>, SMTPDataError(452, b'Too many recipients received this hour. p=ca1-452 221.212.176.99'), <traceback object at 0x0000023E836551C8>)
+
+
+renxz409@163.com	(<class 'smtplib.SMTPDataError'>, SMTPDataError(452, b'Too many recipients received this hour. p=ca1-452 221.212.176.99'), <traceback object at 0x0000023E81C02C88>)
+
+
+tfxiao@gzhu.edu.cn	(<class 'smtplib.SMTPDataError'>, SMTPDataError(452, b'Too many recipients received this hour. p=ca1-452 221.212.176.99'), <traceback object at 0x0000023E83655348>)
+
+

@@ -1,0 +1,9 @@
+sender: hitzzh@sina.com
+pwd: zrjzrj20130607
+mail_host: smtp.sina.com.cn
+port: 25
+
+contact_file: ./data/test1111.xlsx
+addition_files:
+  - ./data/第十一届环境化学大会环境科学与工程教育论坛海报.png
+title: 第十一届环境化学大会环境科学与工程教育论坛邀请函
